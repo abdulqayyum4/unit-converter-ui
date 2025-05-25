@@ -1,0 +1,5 @@
+streamlit>=1.13.0
+pandas
+numpy
+matplotlib
+# Agar koi aur packages use kiye hain to unke names likhein
