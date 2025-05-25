@@ -1,4 +1,0 @@
-streamlit==1.29.0
-pandas==2.1.0
-numpy==1.24.0
-# Agar koi aur packages use kiye hain to unke names likhein
